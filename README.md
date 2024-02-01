@@ -1,6 +1,6 @@
-#npm install
+### `npm install`
 
-#npm run dev
+### `npm run dev`
 
-#add your api key om config.js
+
 
